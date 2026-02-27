@@ -75,8 +75,7 @@
 
 ## 📄 协议说明 (License)
 
-本项目前端开源部分采用 [Apache License 2.0](LICENSE) 开源协议。
-*注：本项目不得以任何形式分发破解、逆向、篡改或植入恶意代码的变体版进行牟利。*
+本项目采用 [Apache License 2.0](LICENSE) 开源协议。
 
 ---
 <div align="center">
